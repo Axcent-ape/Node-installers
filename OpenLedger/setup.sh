@@ -31,6 +31,8 @@ sudo apt install -y libgtk-3-0 libnotify4 libnss3 libxss1 libxtst6 xdg-utils lib
 # Install the necessary packages
 echo "Installing the necessary packages..."
 sudo apt install -y unzip
+sudo apt-get install libasound2t64 libasound2t64 libasound2
+
 
 # Download the OpenLedger
 echo "Downloading OpenLedger..."
